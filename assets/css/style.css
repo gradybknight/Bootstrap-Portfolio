@@ -2,3 +2,23 @@
 	width: 33%;
 	padding: 10px;
 }
+
+h1,h2,h3 {
+	font-family: Georgia, Times, "Times New Roman", serif;
+	font-weight: 700;
+	color: #4aaaa5;
+  }
+
+.navbar-brand{
+	background-color: #4aaaa5;
+	color: white;
+}
+
+.panel-title{
+	color: #4aaaa5;
+	background-color: white;
+}
+
+.panel-heading{
+	background-color: white;
+}
