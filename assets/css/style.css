@@ -9,16 +9,23 @@ h1,h2,h3 {
 	color: #4aaaa5;
   }
 
-.navbar-brand{
-	background-color: #4aaaa5;
-	color: white;
+.navbar-default .navbar-brand  {
+    background-color: #4aaaa5;
+    color:white;
 }
 
 .panel-title{
 	color: #4aaaa5;
-	background-color: white;
 }
 
 .panel-heading{
 	background-color: white;
+}
+
+#main_content{
+	background-color: blue;
+}
+
+body{
+	background-image:url("../images/white_wall_hash.png");
 }
